@@ -88,9 +88,9 @@ PRODUCT_PACKAGES += \
     libshims_camera \
     Snap
 
-# CMActions
+# LineageActions
 PRODUCT_PACKAGES += \
-    CMActions
+    LineageActions
 
 # Display
 PRODUCT_PACKAGES += \
